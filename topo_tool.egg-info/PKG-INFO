@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: topo-tool
+Version: 0.1
+Summary: topo_tool
+Home-page: https://github.com/Hio-Been/topo_tool
+Author: jeelab
+Author-email: hiobeen@kist.re.kr
+License: UNKNOWN
+Download-URL: https://github.com/Hio-Been/topo_tool
+Description: UNKNOWN
+Keywords: topo_tool
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3
